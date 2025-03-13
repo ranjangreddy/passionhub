@@ -27,7 +27,7 @@
 1. Clone this repository:
 
 ```bash
-git clone git@github.com:info-6150-fall-2023/final-project-overflow.git
+git clone https://github.com/ranjangreddy/passionhub.git
 ```
 
 2. Open the repository with Visual Studio or any other IDE.
